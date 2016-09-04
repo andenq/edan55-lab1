@@ -1,0 +1,324 @@
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 3
+
+R1: 4 +- 2 x 10^0
+Elapsed time is 0.001328 seconds.
+
+R2: 2.5 +- 0.5 x 10^0
+Elapsed time is 0.001448 seconds.
+
+R3: 2.5 +- 0.5 x 10^0
+Elapsed time is 0.001386 seconds.
+
+=======================
+
+N = 7
+
+R1: 9 +- 6 x 10^0
+Elapsed time is 0.001564 seconds.
+
+R2: 5 +- 0.9 x 10^0
+Elapsed time is 0.002311 seconds.
+
+R3: 4.2 +- 0.4 x 10^0
+Elapsed time is 0.001673 seconds.
+
+=======================
+
+N = 15
+
+R1: 2.1 +- 0.6 x 10^1
+Elapsed time is 0.001999 seconds.
+
+R2: 1.2 +- 0.2 x 10^1
+Elapsed time is 0.003544 seconds.
+
+R3: 8.2 +- 0.4 x 10^0
+Elapsed time is 0.002329 seconds.
+
+=======================
+
+N = 31
+
+R1: 5 +- 1 x 10^1
+Elapsed time is 0.003376 seconds.
+
+R2: 2.5 +- 0.3 x 10^1
+Elapsed time is 0.005388 seconds.
+
+R3: 1.64 +- 0.05 x 10^1
+Elapsed time is 0.004114 seconds.
+
+=======================
+
+N = 63
+
+R1: 1.1 +- 0.3 x 10^2
+Elapsed time is 0.007728 seconds.
+
+R2: 5.2 +- 0.5 x 10^1
+Elapsed time is 0.011056 seconds.
+
+R3: 3.25 +- 0.05 x 10^1
+Elapsed time is 0.006928 seconds.
+
+=======================
+
+N = 127
+
+R1: 2.4 +- 0.5 x 10^2
+Elapsed time is 0.015749 seconds.
+
+R2: 1.1 +- 0.1 x 10^2
+Elapsed time is 0.028250 seconds.
+
+R3: 6.43 +- 0.05 x 10^1
+Elapsed time is 0.015341 seconds.
+
+=======================
+
+N = 255
+
+R1: 6 +- 1 x 10^2
+Elapsed time is 0.018274 seconds.
+
+R2: 2.3 +- 0.1 x 10^2
+Elapsed time is 0.028540 seconds.
+
+R3: 1.282 +- 0.004 x 10^2
+Elapsed time is 0.016972 seconds.
+
+=======================
+
+N = 511
+
+R1: 1.4 +- 0.2 x 10^3
+Elapsed time is 0.039159 seconds.
+
+R2: 4.7 +- 0.3 x 10^2
+Elapsed time is 0.056413 seconds.
+
+R3: 2.563 +- 0.005 x 10^2
+Elapsed time is 0.038568 seconds.
+
+=======================
+
+N = 1023
+
+R1: 3.4 +- 0.9 x 10^3
+Elapsed time is 0.097688 seconds.
+
+R2: 9.8 +- 0.3 x 10^2
+Elapsed time is 0.124323 seconds.
+
+R3: 5.124 +- 0.005 x 10^2
+Elapsed time is 0.094179 seconds.
+
+=======================
+
+N = 2047
+
+R1: 7 +- 1 x 10^3
+Elapsed time is 0.204392 seconds.
+
+R2: 1.97 +- 0.04 x 10^3
+Elapsed time is 0.276231 seconds.
+
+R3: 1.0245 +- 0.0005 x 10^3
+Elapsed time is 0.289626 seconds.
+
+=======================
+
+N = 4095
+
+R1: 1.6 +- 0.3 x 10^4
+Elapsed time is 0.489701 seconds.
+
+R2: 3.98 +- 0.05 x 10^3
+Elapsed time is 0.679224 seconds.
+
+R3: 2.0484 +- 0.0005 x 10^3
+Elapsed time is 1.009165 seconds.
+
+=======================
+
+N = 8191
+
+R1: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R1', '/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/R1.m', 9)" style="font-weight:bold">R1</a> (<a href="matlab: opentoline('/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/R1.m',9,0)">line 9</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/lab_1.m', 15)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/lab_1.m',15,0)">line 15</a>)
+    R1
+
+} 
+MEvent. CASE!
+MEvent. CASE!
+lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 3
+
+R1: 4 +- 2 x 10^0
+Elapsed time is 0.004920 seconds.
+
+R2: 2.3 +- 0.5 x 10^0
+Elapsed time is 0.004113 seconds.
+
+R3: 2.6 +- 0.5 x 10^0
+Elapsed time is 0.003471 seconds.
+
+=======================
+
+N = 7
+
+R1: 7 +- 3 x 10^0
+Elapsed time is 0.004335 seconds.
+
+R2: 5.7 +- 0.8 x 10^0
+Elapsed time is 0.003646 seconds.
+
+R3: 4.4 +- 0.5 x 10^0
+Elapsed time is 0.002256 seconds.
+
+=======================
+
+N = 15
+
+R1: 2 +- 1 x 10^1
+Elapsed time is 0.003073 seconds.
+
+R2: 1.1 +- 0.2 x 10^1
+Elapsed time is 0.004030 seconds.
+
+R3: 8.2 +- 0.4 x 10^0
+Elapsed time is 0.004027 seconds.
+
+=======================
+
+N = 31
+
+R1: 5 +- 2 x 10^1
+Elapsed time is 0.004827 seconds.
+
+R2: 2.3 +- 0.4 x 10^1
+Elapsed time is 0.006390 seconds.
+
+R3: 1.66 +- 0.05 x 10^1
+Elapsed time is 0.004218 seconds.
+
+=======================
+
+N = 63
+
+R1: 1.3 +- 0.5 x 10^2
+Elapsed time is 0.009385 seconds.
+
+R2: 5.2 +- 0.5 x 10^1
+Elapsed time is 0.013418 seconds.
+
+R3: 3.21 +- 0.03 x 10^1
+Elapsed time is 0.007319 seconds.
+
+=======================
+
+N = 127
+
+R1: 2.8 +- 0.6 x 10^2
+Elapsed time is 0.009178 seconds.
+
+R2: 1.11 +- 0.06 x 10^2
+Elapsed time is 0.018289 seconds.
+
+R3: 6.44 +- 0.05 x 10^1
+Elapsed time is 0.008133 seconds.
+
+=======================
+
+N = 255
+
+R1: 6 +- 1 x 10^2
+Elapsed time is 0.026302 seconds.
+
+R2: 2.3 +- 0.1 x 10^2
+Elapsed time is 0.039314 seconds.
+
+R3: 1.284 +- 0.005 x 10^2
+Elapsed time is 0.017171 seconds.
+
+=======================
+
+N = 511
+
+R1: 1.4 +- 0.3 x 10^3
+Elapsed time is 0.039880 seconds.
+
+R2: 4.73 +- 0.08 x 10^2
+Elapsed time is 0.057943 seconds.
+
+R3: 2.563 +- 0.005 x 10^2
+Elapsed time is 0.037913 seconds.
+
+=======================
+
+N = 1023
+
+R1: 3.3 +- 0.6 x 10^3
+Elapsed time is 0.090210 seconds.
+
+R2: 9.8 +- 0.2 x 10^2
+Elapsed time is 0.121481 seconds.
+
+R3: 5.123 +- 0.005 x 10^2
+Elapsed time is 0.092964 seconds.
+
+=======================
+
+N = 2047
+
+R1: 7 +- 1 x 10^3
+Elapsed time is 0.196455 seconds.
+
+R2: 1.98 +- 0.04 x 10^3
+Elapsed time is 0.276471 seconds.
+
+R3: 1.0245 +- 0.0005 x 10^3
+Elapsed time is 0.290634 seconds.
+
+=======================
+
+N = 4095
+
+R1: 1.6 +- 0.3 x 10^4
+Elapsed time is 0.488428 seconds.
+
+R2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R2', '/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/R2.m', 10)" style="font-weight:bold">R2</a> (<a href="matlab: opentoline('/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/R2.m',10,0)">line 10</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/lab_1.m', 22)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/School/EDAN55 - Avancerade Algoritmer/Lab 1/lab_1.m',22,0)">line 22</a>)
+    R2
+
+} 
+cat lab1_output.txt
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cat')" style="font-weight:bold">cat</a>
+Dimension must be a real positive finite integer.
+} 
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+diary of
