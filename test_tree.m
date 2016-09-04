@@ -5,12 +5,12 @@ matlab_tree = generate_tree(N);
 
 x = x';
 y = y';
-name1 = cellstr(num2str((1:N)'));
 
 treeplot(matlab_tree);
 hold on;
-% text(x(:,1), y(:,1), name1, 'VerticalAlignment','bottom','HorizontalAlignment','right')
 
-plot(x(:,1), y(:,1), 'r.','MarkerSize', 20);
+ones_array = find(tree);
+
+plot(x(ones_array,1), y(ones_array,1), 'r.','MarkerSize', 20);
 
 hold off;
