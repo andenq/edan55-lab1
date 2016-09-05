@@ -5,8 +5,7 @@ diary on;
 
 fprintf('============ NEW LAB 1 RUN ============');
 
-% for exp = 2:20
-for exp = 19:19
+for exp = 2:20
     N = 2^exp - 1;
     fprintf('\n=======================\n\n');
     fprintf('N = %d\n', N);

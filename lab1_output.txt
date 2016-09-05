@@ -1396,3 +1396,212 @@ In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_
 
 } 
 lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 524287
+
+R1: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mark', 'C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\mark.m', 4)" style="font-weight:bold">mark</a> (<a href="matlab: opentoline('C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\mark.m',4,0)">line 4</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R1', 'C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\R1.m', 16)" style="font-weight:bold">R1</a> (<a href="matlab: opentoline('C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\R1.m',16,0)">line 16</a>)
+        tree = mark(tree, index);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', 'C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\lab_1.m', 17)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\lab_1.m',17,0)">line 17</a>)
+    R1
+} 
+lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 3
+
+R1: 3 +- 0 x 10^0
+Elapsed time is 0.059157 seconds.
+
+R2: 2 +- 0 x 10^0
+Elapsed time is 0.017651 seconds.
+
+R3: 2 +- 0 x 10^0
+Elapsed time is 0.010745 seconds.
+
+=======================
+
+N = 7
+
+R1: 5 +- 0 x 10^0
+Elapsed time is 0.004401 seconds.
+
+R2: 6 +- 0 x 10^0
+Elapsed time is 0.016677 seconds.
+
+R3: 4 +- 0 x 10^0
+Elapsed time is 0.007060 seconds.
+
+=======================
+
+N = 15
+
+R1: 1.1 +- 0 x 10^1
+Elapsed time is 0.001155 seconds.
+
+R2: 9 +- 0 x 10^0
+Elapsed time is 0.003165 seconds.
+
+R3: 8 +- 0 x 10^0
+Elapsed time is 0.003186 seconds.
+
+=======================
+
+N = 31
+
+R1: 4 +- 0 x 10^1
+Elapsed time is 0.001618 seconds.
+
+R2: 2.3 +- 0 x 10^1
+Elapsed time is 0.003410 seconds.
+
+R3: 1.6 +- 0 x 10^1
+Elapsed time is 0.001202 seconds.
+
+=======================
+
+N = 63
+
+R1: 8.3 +- 0 x 10^1
+Elapsed time is 0.001402 seconds.
+
+R2: 6.1 +- 0 x 10^1
+Elapsed time is 0.002317 seconds.
+
+R3: 3.2 +- 0 x 10^1
+Elapsed time is 0.001457 seconds.
+
+=======================
+
+N = 127
+
+R1: 2.65 +- 0 x 10^2
+Elapsed time is 0.001289 seconds.
+
+R2: 1.18 +- 0 x 10^2
+Elapsed time is 0.002074 seconds.
+
+R3: 6.4 +- 0 x 10^1
+Elapsed time is 0.001696 seconds.
+
+=======================
+
+N = 255
+
+R1: 5.32 +- 0 x 10^2
+Elapsed time is 0.002673 seconds.
+
+R2: 2.24 +- 0 x 10^2
+Elapsed time is 0.002884 seconds.
+
+R3: 1.28 +- 0 x 10^2
+Elapsed time is 0.001873 seconds.
+
+=======================
+
+N = 511
+
+R1: 1.418 +- 0 x 10^3
+Elapsed time is 0.004780 seconds.
+
+R2: 4.71 +- 0 x 10^2
+Elapsed time is 0.006980 seconds.
+
+R3: 2.56 +- 0 x 10^2
+Elapsed time is 0.005319 seconds.
+
+=======================
+
+N = 1023
+
+R1: 3.204 +- 0 x 10^3
+Elapsed time is 0.013815 seconds.
+
+R2: 9.87 +- 0 x 10^2
+Elapsed time is 0.021929 seconds.
+
+R3: 5.12 +- 0 x 10^2
+Elapsed time is 0.011292 seconds.
+
+=======================
+
+N = 2047
+
+R1: 6.401 +- 0 x 10^3
+Elapsed time is 0.023468 seconds.
+
+R2: 1.932 +- 0 x 10^3
+Elapsed time is 0.023538 seconds.
+
+R3: 1.024 +- 0 x 10^3
+Elapsed time is 0.022858 seconds.
+
+=======================
+
+N = 4095
+
+R1: 1.6465 +- 0 x 10^4
+Elapsed time is 0.067249 seconds.
+
+R2: 3.914 +- 0 x 10^3
+Elapsed time is 0.059713 seconds.
+
+R3: 2.048 +- 0 x 10^3
+Elapsed time is 0.068554 seconds.
+
+=======================
+
+N = 8191
+
+R1: 3.6533 +- 0 x 10^4
+Elapsed time is 0.163196 seconds.
+
+R2: 8.058 +- 0 x 10^3
+Elapsed time is 0.131009 seconds.
+
+R3: 4.096 +- 0 x 10^3
+Elapsed time is 0.164537 seconds.
+
+=======================
+
+N = 16383
+
+R1: 8.4604 +- 0 x 10^4
+Elapsed time is 0.457416 seconds.
+
+R2: 1.6173 +- 0 x 10^4
+Elapsed time is 0.397596 seconds.
+
+R3: 8.192 +- 0 x 10^3
+Elapsed time is 0.482244 seconds.
+
+=======================
+
+N = 32767
+
+R1: 1.47647 +- 0 x 10^5
+Elapsed time is 1.427541 seconds.
+
+R2: 3.2289 +- 0 x 10^4
+Elapsed time is 1.283806 seconds.
+
+R3: 1.6384 +- 0 x 10^4
+Elapsed time is 1.362787 seconds.
+
+=======================
+
+N = 65535
+
+R1: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R1', 'C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\R1.m', 9)" style="font-weight:bold">R1</a> (<a href="matlab: opentoline('C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\R1.m',9,0)">line 9</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', 'C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\lab_1.m', 16)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('C:\Users\Samuel\Documents\MATLAB\EDAN55\edan55-lab1\lab_1.m',16,0)">line 16</a>)
+    R1
+} 
+lab_1
