@@ -1360,3 +1360,39 @@ In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_
 
 } 
 lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 524287
+
+R1: 3.01701 +- 0 x 10^6
+Elapsed time is 112.502824 seconds.
+
+R2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mark', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/mark.m', 4)" style="font-weight:bold">mark</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/mark.m',4,0)">line 4</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R2', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m', 7)" style="font-weight:bold">R2</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m',7,0)">line 7</a>)
+        tree = mark(tree, s);
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m', 23)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m',23,0)">line 23</a>)
+    R2
+
+} 
+lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 524287
+
+R1: 3.26922 +- 0 x 10^6
+Elapsed time is 104.782503 seconds.
+
+R2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R2', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m', 10)" style="font-weight:bold">R2</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m',10,0)">line 10</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m', 23)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m',23,0)">line 23</a>)
+    R2
+
+} 
+lab_1
