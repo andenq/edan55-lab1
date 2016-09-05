@@ -1,6 +1,7 @@
-% N = 1023;
+% N = 3;
 % rounds = 100;
 
+% tic
 result = zeros(1, rounds);
 
 for i = 1:rounds
@@ -23,5 +24,6 @@ for i = 1:rounds
 end
 
 special_print(result);
+% toc
 
 % histogram(result)

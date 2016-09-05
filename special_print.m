@@ -7,6 +7,6 @@ function special_print (result)
     end
     exp = floor(log10(rounded_mean));
 
-    fprintf('%g +- %g\n', mean(result), std(result));
-%     fprintf('%g +- %g x 10^%d\n', rounded_mean/(10^exp), rounded_std/(10^exp), exp);
+%     fprintf('%g +- %g\n', mean(result), std(result));
+    fprintf('%g +- %g x 10^%d\n', rounded_mean/(10^exp), rounded_std/(10^exp), exp);
 end

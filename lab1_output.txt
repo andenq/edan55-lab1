@@ -322,3 +322,402 @@ MEvent. CASE!
 MEvent. CASE!
 MEvent. CASE!
 diary of
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 3
+
+R1: 3 +- 1 x 10^0
+Elapsed time is 0.015830 seconds.
+
+R2: 2 +- 0 x 10^0
+Elapsed time is 0.010955 seconds.
+
+R3: 2 +- 0 x 10^0
+Elapsed time is 0.007802 seconds.
+
+=======================
+
+N = 7
+
+R1: 7 +- 3 x 10^0
+Elapsed time is 0.001037 seconds.
+
+R2: 4.6 +- 0.9 x 10^0
+Elapsed time is 0.001990 seconds.
+
+R3: 4 +- 0 x 10^0
+Elapsed time is 0.001551 seconds.
+
+=======================
+
+N = 15
+
+R1: 2 +- 1 x 10^1
+Elapsed time is 0.000847 seconds.
+
+R2: 1.2 +- 0.2 x 10^1
+Elapsed time is 0.001060 seconds.
+
+R3: 8 +- 0 x 10^0
+Elapsed time is 0.000716 seconds.
+
+=======================
+
+N = 31
+
+R1: 5 +- 2 x 10^1
+Elapsed time is 0.000683 seconds.
+
+R2: 2.2 +- 0.2 x 10^1
+Elapsed time is 0.000868 seconds.
+
+R3: 1.6 +- 0 x 10^1
+Elapsed time is 0.000699 seconds.
+
+=======================
+
+N = 63
+
+R1: 1.1 +- 0.4 x 10^2
+Elapsed time is 0.003737 seconds.
+
+R2: 5.6 +- 0.4 x 10^1
+Elapsed time is 0.003200 seconds.
+
+R3: 3.2 +- 0 x 10^1
+Elapsed time is 0.002061 seconds.
+
+=======================
+
+N = 127
+
+R1: 3.1 +- 0.6 x 10^2
+Elapsed time is 0.003589 seconds.
+
+R2: 1.1 +- 0.1 x 10^2
+Elapsed time is 0.003590 seconds.
+
+R3: 6.4 +- 0 x 10^1
+Elapsed time is 0.001970 seconds.
+
+=======================
+
+N = 255
+
+R1: 5 +- 1 x 10^2
+Elapsed time is 0.004012 seconds.
+
+R2: 2.25 +- 0.02 x 10^2
+Elapsed time is 0.006067 seconds.
+
+R3: 1.28 +- 0 x 10^2
+Elapsed time is 0.004534 seconds.
+
+=======================
+
+N = 511
+
+R1: 1.3 +- 0.3 x 10^3
+Elapsed time is 0.009320 seconds.
+
+R2: 4.7 +- 0.1 x 10^2
+Elapsed time is 0.012814 seconds.
+
+R3: 2.56 +- 0 x 10^2
+Elapsed time is 0.010382 seconds.
+
+=======================
+
+N = 1023
+
+R1: 3.3 +- 0.5 x 10^3
+Elapsed time is 0.027876 seconds.
+
+R2: 9.8 +- 0.3 x 10^2
+Elapsed time is 0.032626 seconds.
+
+R3: 5.12 +- 0 x 10^2
+Elapsed time is 0.031438 seconds.
+
+=======================
+
+N = 2047
+
+R1: 6.4 +- 0.8 x 10^3
+Elapsed time is 0.052084 seconds.
+
+R2: 1.99 +- 0.04 x 10^3
+Elapsed time is 0.078195 seconds.
+
+R3: 1.024 +- 0 x 10^3
+Elapsed time is 0.101893 seconds.
+
+=======================
+
+N = 4095
+
+R1: 1.5 +- 0.2 x 10^4
+Elapsed time is 0.146565 seconds.
+
+R2: 3.98 +- 0.07 x 10^3
+Elapsed time is 0.218074 seconds.
+
+R3: 2.048 +- 0 x 10^3
+Elapsed time is 0.387087 seconds.
+
+=======================
+
+N = 8191
+
+R1: 3.2 +- 0.2 x 10^4
+Elapsed time is 0.409256 seconds.
+
+R2: 8 +- 0.09 x 10^3
+Elapsed time is 0.665477 seconds.
+
+R3: 4.096 +- 0 x 10^3
+Elapsed time is 1.569838 seconds.
+
+=======================
+
+N = 16383
+
+R1: 8 +- 1 x 10^4
+Elapsed time is 1.322665 seconds.
+
+R2: 1.611 +- 0.006 x 10^4
+Elapsed time is 2.250891 seconds.
+
+R3: 8.192 +- 0 x 10^3
+Elapsed time is 6.295454 seconds.
+
+=======================
+
+N = 32767
+
+R1: 1.5 +- 0.1 x 10^5
+Elapsed time is 4.626887 seconds.
+
+R2: 3.25 +- 0.01 x 10^4
+Elapsed time is 8.440142 seconds.
+
+R3: 1.6384 +- 0 x 10^4
+Elapsed time is 24.496401 seconds.
+
+=======================
+
+N = 65535
+
+R1: 3.4 +- 0.4 x 10^5
+Elapsed time is 17.016259 seconds.
+
+R2: 6.51 +- 0.01 x 10^4
+Elapsed time is 31.989195 seconds.
+
+R3: 3.2768 +- 0 x 10^4
+Elapsed time is 96.842740 seconds.
+
+=======================
+
+N = 131071
+
+R1: 6.9 +- 0.6 x 10^5
+Elapsed time is 32.731113 seconds.
+
+R2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mark', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/mark.m', 4)" style="font-weight:bold">mark</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/mark.m',4,0)">line 4</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R2', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m', 7)" style="font-weight:bold">R2</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R2.m',7,0)">line 7</a>)
+        tree = mark(tree, s);
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m', 22)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m',22,0)">line 22</a>)
+    R2
+
+} 
+R1
+2.5 +- 0.9 x 10^0
+lab_1
+============ NEW LAB 1 RUN ============
+=======================
+
+N = 3
+
+R1: 2.2 +- 0.4 x 10^0
+Elapsed time is 0.006658 seconds.
+
+R2: 2 +- 0 x 10^0
+Elapsed time is 0.001043 seconds.
+
+R3: 2 +- 0 x 10^0
+Elapsed time is 0.000809 seconds.
+
+=======================
+
+N = 7
+
+R1: 6 +- 2 x 10^0
+Elapsed time is 0.001952 seconds.
+
+R2: 4.4 +- 0.5 x 10^0
+Elapsed time is 0.000515 seconds.
+
+R3: 4 +- 0 x 10^0
+Elapsed time is 0.000338 seconds.
+
+=======================
+
+N = 15
+
+R1: 1.5 +- 0.4 x 10^1
+Elapsed time is 0.000610 seconds.
+
+R2: 1.1 +- 0.1 x 10^1
+Elapsed time is 0.000474 seconds.
+
+R3: 8 +- 0 x 10^0
+Elapsed time is 0.000332 seconds.
+
+=======================
+
+N = 31
+
+R1: 7 +- 6 x 10^1
+Elapsed time is 0.000590 seconds.
+
+R2: 2.3 +- 0.4 x 10^1
+Elapsed time is 0.000636 seconds.
+
+R3: 1.6 +- 0 x 10^1
+Elapsed time is 0.000498 seconds.
+
+=======================
+
+N = 63
+
+R1: 1.3 +- 0.2 x 10^2
+Elapsed time is 0.001106 seconds.
+
+R2: 5.4 +- 0.5 x 10^1
+Elapsed time is 0.001198 seconds.
+
+R3: 3.2 +- 0 x 10^1
+Elapsed time is 0.000977 seconds.
+
+=======================
+
+N = 127
+
+R1: 2.2 +- 0.3 x 10^2
+Elapsed time is 0.001961 seconds.
+
+R2: 1.1 +- 0.1 x 10^2
+Elapsed time is 0.002251 seconds.
+
+R3: 6.4 +- 0 x 10^1
+Elapsed time is 0.001786 seconds.
+
+=======================
+
+N = 255
+
+R1: 7 +- 2 x 10^2
+Elapsed time is 0.004230 seconds.
+
+R2: 2.4 +- 0.1 x 10^2
+Elapsed time is 0.004823 seconds.
+
+R3: 1.28 +- 0 x 10^2
+Elapsed time is 0.003919 seconds.
+
+=======================
+
+N = 511
+
+R1: 1.5 +- 0.4 x 10^3
+Elapsed time is 0.008666 seconds.
+
+R2: 4.7 +- 0.2 x 10^2
+Elapsed time is 0.012209 seconds.
+
+R3: 2.56 +- 0 x 10^2
+Elapsed time is 0.012515 seconds.
+
+=======================
+
+N = 1023
+
+R1: 3.1 +- 0.4 x 10^3
+Elapsed time is 0.027636 seconds.
+
+R2: 9.9 +- 0.1 x 10^2
+Elapsed time is 0.028228 seconds.
+
+R3: 5.12 +- 0 x 10^2
+Elapsed time is 0.027190 seconds.
+
+=======================
+
+N = 2047
+
+R1: 7 +- 1 x 10^3
+Elapsed time is 0.060176 seconds.
+
+R2: 1.97 +- 0.05 x 10^3
+Elapsed time is 0.071651 seconds.
+
+R3: 1.024 +- 0 x 10^3
+Elapsed time is 0.092727 seconds.
+
+=======================
+
+N = 4095
+
+R1: 1.5 +- 0.2 x 10^4
+Elapsed time is 0.140192 seconds.
+
+R2: 3.98 +- 0.03 x 10^3
+Elapsed time is 0.193467 seconds.
+
+R3: 2.048 +- 0 x 10^3
+Elapsed time is 0.383990 seconds.
+
+=======================
+
+N = 8191
+
+R1: 3.2 +- 0.3 x 10^4
+Elapsed time is 0.396151 seconds.
+
+R2: 8.05 +- 0.09 x 10^3
+Elapsed time is 0.611220 seconds.
+
+R3: 4.096 +- 0 x 10^3
+Elapsed time is 1.550909 seconds.
+
+=======================
+
+N = 16383
+
+R1: 7.3 +- 0.7 x 10^4
+Elapsed time is 1.282521 seconds.
+
+R2: 1.61 +- 0.01 x 10^4
+Elapsed time is 2.118370 seconds.
+
+R3: 8.192 +- 0 x 10^3
+Elapsed time is 6.231813 seconds.
+
+=======================
+
+N = 32767
+
+R1: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('R1', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R1.m', 9)" style="font-weight:bold">R1</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/R1.m',9,0)">line 9</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab_1', '/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m', 16)" style="font-weight:bold">lab_1</a> (<a href="matlab: opentoline('/home/andreas/ownCloud/School/EDAN55 - Avancerade Algoritmer/marking/lab_1.m',16,0)">line 16</a>)
+    R1
+
+} 
+lab_1

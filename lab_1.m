@@ -1,7 +1,7 @@
-rounds = 10;
+rounds = 5;
 
-% diary 'lab1_output.txt';
-% diary on;
+diary 'lab1_output.txt';
+diary on;
 
 fprintf('============ NEW LAB 1 RUN ============');
 
